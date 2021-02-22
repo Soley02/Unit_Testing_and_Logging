@@ -1,12 +1,12 @@
 # Unit_Testing_and_Logging
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soley02/Unit_Testing_and_Logging/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soley02/Unit_Testing_and_Logging/HEAD)
 
 Ein Binder-Kompatibles Repository mit einer `requirements.txt` und `runtime.txt` Datei.
 
 Sie können auch unter der folgenden Binder-URL dieses Notebook erzeugen:
 
-https://mybinder.org/v2/gh/Soley02/Unit_Testing_and_Logging/tree/main/HEAD
+https://mybinder.org/v2/gh/Soley02/Unit_Testing_and_Logging/HEAD
 
 ## Ausführung:
 
