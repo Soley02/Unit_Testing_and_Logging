@@ -35,6 +35,7 @@ fit ran in: 17.269278049468994 sec
 Train Accuracy: 72.92166666666667 
 
 Train confusion matrix:
+```
 5447    5   40   31   49   16  198   50   81    6
    3 6440  127   54    3   29   25   36   24    1 
  297  420 3824  163  256   19  622  186  121   50
@@ -45,8 +46,9 @@ Train confusion matrix:
  213  192  205   39  160   17   26 5058   60  295
   67  690  202  677   73  188  347   39 3437  131
  164  162   63  290  669  279  122  735  291 3174
-
+```
 Classification report for classifier:
+
               precision    recall  f1-score   support
 
         0.0       0.79      0.94      0.86       980
@@ -68,6 +70,7 @@ predict ran in: 0.04868912696838379 sec
 Test Accuracy: 73.4 
 
 Test confusion matrix:
+```
  923    1    2    3    3    1   35    3    9    0
    0 1084   23   11    0    0    5    4    8    0
   63   78  669   27   38    2   97   28   24    6
@@ -78,3 +81,4 @@ Test confusion matrix:
   23   40   52    6   21    4    7  821    8   46
   14   90   29   99   10   33   66    7  598   28
   21   27   10   37  133   42   27  100   48  564
+```
