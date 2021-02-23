@@ -26,7 +26,7 @@ Die `requirements.txt` Datei listet alle Python-Bibliotheken auf, die für diese
 ```
 pip install -r requirements.txt
 ```
-Ausgabe im LogFile:
+Ausgabe:
 
 MNIST: (70000, 784) (70000,)
 __init__ ran in: 5.245208740234375e-06 sec
